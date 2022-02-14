@@ -1,1 +1,1 @@
-https://public.tableau.com/app/profile/nelson.manzano/viz/LabBIAnalysiswithTableau_16445234087450/Story?publish=yes
+https://public.tableau.com/app/profile/nelson.manzano/viz/LabIntroductiontoBIandTableau_16446868722010/AverageWarehouseSalesbyYearMonthrowsandItemTypecolumns?publish=yes
